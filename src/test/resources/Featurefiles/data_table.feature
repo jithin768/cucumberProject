@@ -4,4 +4,4 @@ Feature: learn awesome data table
 
     Scenario: SINGLE ROW WITH NO HEADER
       Given my credentials
-        | john | john123 |
+        | john1 | john123 |
