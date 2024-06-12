@@ -24,7 +24,7 @@ public class cucmberHooks {
 
     @Before(order=0)
     public static void beforeorder0(){
-        System.out.println("\n In Before order0\n");
+        System.out.println("\n In Before order0 Test\n");
     }
 
     @After(order=1)
