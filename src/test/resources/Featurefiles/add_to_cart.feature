@@ -11,3 +11,4 @@ Feature: Add to cart
         | product_name |
         | Blue Shoes   |
         | Red Shoes    |
+
